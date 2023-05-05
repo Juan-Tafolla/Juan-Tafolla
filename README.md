@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Tafolla</h1>
-<h3 align="center">An amateur developer from Mexico</h3>
+<h3 align="center">Mexican Developer (Fresh Graduate)</h3>
 
 <p align="left">
 </p>
